@@ -1,0 +1,36 @@
+/* Your app styles here */
+.welcome-bg-page{
+	background-image: url('../img/bgs/bg.jpg');
+	background-position: center center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.welcome-bg-overlay{
+	background-color: rgba(0,0,0,.8);
+}
+.welcome-logo-page{
+	height: 135px;
+	margin: 0 auto;
+}
+
+@media(max-width: 320px){
+	.welcome-buttons-group{
+		padding-top: 170px;
+	}
+}
+/*
+.welcome-title-page{
+	font-size: 3.3rem;
+	color:rgba(255,255,255,0.8);
+	text-align: center;
+	margin-bottom: 0;
+}
+
+.welcome-subtitle-page{
+	font-size: 1.2rem;
+	color: rgba(255,255,255,0.7);
+	margin-top:0;
+	text-align: center;
+}
+*/
