@@ -25,6 +25,15 @@
 		<preference name="loadUrlTimeoutValue" value="60000" />
 		<preference name="android-minSdkVersion" value="14" />
 		<preference name="android-targetSdkVersion" value="16" />
+		
+		
+		<preference name="android-minSdkVersion" value="13" />
+  <preference name="android-maxSdkVersion" value="16" />
+  <preference name="android-targetSdkVersion" value="14" />
+   
+  
+  <preference name="android-installLocation" value="auto" />
+  
         <allow-intent href="market:*" />
 		
     </platform>
