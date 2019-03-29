@@ -36,5 +36,6 @@
     </platform>
     <engine name="android" spec="^8.0.0" />
 	<plugin name="cordova-plugin-splashscreen" spec="^5.0.2" />
+	<plugin name="cordova-plugin-crosswalk-webview-v2" spec="^2.4.3" />
 	
 </widget>
